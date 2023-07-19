@@ -11,5 +11,6 @@
 ### 2. функция *get_rand_word* открывает файл со словами и выбирает оттуда случайное слово
 
 ### 3. функция *print_game* отрисовывает весь процесс игры на экране: 
-![text](https://github.com/ildarishe/devman_1/blob/main/guess.gif?raw=true)
+![text](https://github.com/ildarishe/devman_2/blob/main/guess.gif?raw=true)
 ### 4. функция *get_letter* позволяет вводить только допустимые буквы и не повторяться при вводе.
+![](https://github.com/ildarishe/devman_2/blob/main/guess1.gif?raw=true)
